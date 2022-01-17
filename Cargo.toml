@@ -1,0 +1,14 @@
+[package]
+name = "tw4f"
+description = "A tiny and safe abstraction over the WASM-4 fantasy console."
+authors = ["Leon Davis <leonskidev@pm.me>"]
+
+version = "0.1.0"
+edition = "2021"
+
+license = "ISC OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/leonskidev/tw4f"
+
+keywords = ["wasm4", "game", "framework"]
+categories = ["api-bindings", "no-std"]
