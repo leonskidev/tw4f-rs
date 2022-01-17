@@ -1,4 +1,4 @@
-# tw4f [![crates.io](https://img.shields.io/crates/v/tw4f)](https://crates.io/crates/tw4f) [![licence](https://img.shields.io/github/license/leonskidev/tw4f?color=%23007ec6)](LICENCE)
+# tw4f [![crates.io](https://img.shields.io/crates/v/tw4f)](https://crates.io/crates/tw4f) [![licence](https://img.shields.io/crates/l/tw4f)](LICENCE)
 
 A tiny and safe abstraction over the [WASM-4] fantasy console.
 
