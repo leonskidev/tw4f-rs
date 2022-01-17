@@ -6,12 +6,12 @@ A tiny and safe abstraction over the [WASM-4] fantasy console.
 
 All code in this repository is dual-licenced under either:
 
-- ISC Licence ([`LICENCE-ISC`](LICENCE-ISC) or
-  https://opensource.org/licenses/ISC)
-- Apache Licence, Version 2.0 ([`LICENCE-APACHE`](LICENCE-APACHE) or
-  http://www.apache.org/licenses/LICENSE-2.0)
+- [ISC Licence](LICENCE-ISC)
+- [Apache Licence, Version 2.0](LICENCE-APACHE)
 
 at your option.
+
+## Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion in the work by you, as defined in the Apache-2.0 license, shall
