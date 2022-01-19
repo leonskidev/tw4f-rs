@@ -144,7 +144,7 @@ impl Color {
   }
 
   /// Converts this colour to a `u32`.
-  pub const fn as_u32(self) -> u32 {
+  pub const fn to_u32(self) -> u32 {
     ((self.r as u32) << 16) | ((self.g as u32) << 8) as u32 | self.b as u32
   }
 
