@@ -121,7 +121,7 @@ impl Palette {
   /// [WASM-4 Docs](https://wasm4.org/docs/reference/memory/#palette)
   #[inline]
   pub fn store(self, color: Color) {
-    unsafe { (*Self::PALETTE)[self as usize] = color.as_u32() }
+    unsafe { (*Self::PALETTE)[self as usize] = color.to_u32() }
   }
 }
 
